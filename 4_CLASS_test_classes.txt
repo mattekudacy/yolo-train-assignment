@@ -1,0 +1,6 @@
+Bus
+Car
+Fire_hydrant
+Person
+Traffic_light
+Truck
